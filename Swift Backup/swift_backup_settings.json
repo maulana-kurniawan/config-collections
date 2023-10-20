@@ -1,0 +1,11 @@
+{
+  "favorites": {
+    "items": []
+  },
+  "settings": {
+    "isRestoreSsaids": true,
+    "restorePermissionsMode": 1,
+    "themeModeId": 3,
+    "useAmoledTheme": true
+  }
+}
