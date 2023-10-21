@@ -1,14 +1,65 @@
 {
+    "telemetry.telemetryLevel": "off",
     "workbench.colorTheme": "Material Theme Darker High Contrast",
     "workbench.iconTheme": "eq-material-theme-icons-darker",
     "workbench.productIconTheme": "fluent-icons",
     "editor.fontFamily": "'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace",
+    "html.autoClosingTags": true,
+    "javascript.autoClosingTags": true,
+    "typescript.autoClosingTags": true,
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.fixAll.markdownlint": true,
+    },
+    "emmet.excludeLanguages": [],
+    "emmet.includeLanguages": {
+        "markdown": "html",
+        "vue-html": "html",
+        "javascript": "javascriptreact",
+        "njk": "html",
+    },
+    "files.trimTrailingWhitespace": true,
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "files.trimTrailingWhitespace": false,
+    },
     "html.format.indentHandlebars": true,
     "html.format.indentInnerHtml": true,
     "html.format.templating": true,
     "editor.linkedEditing": true,
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "javascript.preferences.renameMatchingJsxTags": true,
+    "typescript.preferences.renameMatchingJsxTags": true,
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+        "[Panda Syntax]": {
+            "editorBracketHighlight.foreground1": "#E6E6E6",
+            "editorBracketHighlight.foreground2": "#FF75B5",
+            "editorBracketHighlight.foreground3": "#19f9d8",
+            "editorBracketHighlight.foreground4": "#B084EB",
+            "editorBracketHighlight.foreground5": "#45A9F9",
+            "editorBracketHighlight.foreground6": "#FFB86C",
+            "editorBracketHighlight.unexpectedBracket.foreground": "#FF2C6D",
+            "editorBracketPairGuide.background1": "#FFB86C",
+            "editorBracketPairGuide.background2": "#FF75B5",
+            "editorBracketPairGuide.background3": "#45A9F9",
+            "editorBracketPairGuide.background4": "#B084EB",
+            "editorBracketPairGuide.background5": "#E6E6E6",
+            "editorBracketPairGuide.background6": "#19f9d8",
+            "editorBracketPairGuide.activeBackground1": "#FFB86C",
+            "editorBracketPairGuide.activeBackground2": "#FF75B5",
+            "editorBracketPairGuide.activeBackground3": "#45A9F9",
+            "editorBracketPairGuide.activeBackground4": "#B084EB",
+            "editorBracketPairGuide.activeBackground5": "#E6E6E6",
+            "editorBracketPairGuide.activeBackground6": "#19f9d8",
+        },
+    },
     "editor.guides.bracketPairs": true,
+    "editor.guides.highlightActiveIndentation": true,
     "editor.guides.bracketPairsHorizontal": true,
     "editor.fontLigatures": true,
     "files.autoSave": "afterDelay",
@@ -21,46 +72,38 @@
     "workbench.startupEditor": "none",
     "security.workspace.trust.untrustedFiles": "open",
     "update.showReleaseNotes": false,
-    "[dart]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnType": true,
-        "editor.rulers": [
-            80
-        ],
-        "editor.selectionHighlight": false,
-        "editor.suggestSelection": "first",
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
-    },
-    "dart.warnWhenEditingFilesOutsideWorkspace": false,
     "git.confirmSync": false,
-    "explorer.confirmDelete": false,
-    "[scss]": {
-        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
-    },
-    "redhat.telemetry.enabled": true,
-    "[css]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    },
+    "explorer.confirmDelete": true,
+    "redhat.telemetry.enabled": false,
     "intelephense.diagnostics.undefinedProperties": false,
-    "explorer.confirmDragAndDrop": false,
-    "editor.defaultFormatter": "zobo.php-intellisense",
+    "explorer.confirmDragAndDrop": true,
     "html.format.wrapLineLength": 0,
     "html.format.wrapAttributes": "aligned-multiple",
     "html.format.unformatted": "wbr",
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
     },
-    "[php]": {
-        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-    },
-    "[javascript]": {
+    "[javascript][javascriptreact][typescript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
-    "[markdown]": {
-        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-    },
-    "[json]": {
+    "[json][jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
-    },   
+    },
+    "[css][scss][less]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "markdownlint.config": {
+        "default": true,
+        "MD003": {
+            "style": "atx"
+        },
+        "MD007": false,
+        "MD010": false,
+        "MD026": {
+            "punctuation": ".,;:"
+        },
+        "MD032": false,
+        "MD033": false
+    },
+    "markdownlint.run": "onSave"
 }
