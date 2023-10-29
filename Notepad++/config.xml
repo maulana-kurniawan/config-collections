@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" regexBackward4PowerUser="no" bookmarkLine="no" purge="no">
-        <Filter name="" />
-        <Find name="fira" />
-        <Find name="powertoys" />
-        <Find name="oracle" />
-        <Find name="cooldown_reply" />
-        <Find name="premium" />
-        <Find name=" &amp;&amp;" />
-        <Find name=";" />
-        <Replace name="" />
-        <Replace name=" &amp;&amp;" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
     </History>

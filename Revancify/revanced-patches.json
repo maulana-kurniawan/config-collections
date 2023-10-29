@@ -1,126 +1,80 @@
 [
   {
-    "pkgName": "com.adobe.lrmobile",
-    "appName": "Lightroom-Photo-Video-Editor",
-    "apkmirrorAppName": "lightroom",
-    "developerName": "adobe",
-    "versions": [],
+    "pkgName": "com.google.android.youtube",
+    "appName": "YouTube",
+    "apkmirrorAppName": "youtube",
+    "developerName": "google-inc",
+    "versions": [
+      "18.25.40",
+      "18.27.36",
+      "18.29.38",
+      "18.30.37",
+      "18.31.40",
+      "18.32.39",
+      "18.33.40",
+      "18.34.38",
+      "18.35.36",
+      "18.36.39",
+      "18.37.36",
+      "18.38.44",
+      "18.39.41",
+      "18.40.34",
+      "18.41.39"
+    ],
     "includedPatches": [
-      "Unlock premium",
-      "Disable mandatory login"
-    ]
-  },
-  {
-    "pkgName": "com.vanced.android.youtube",
-    "appName": "YouTube-Vanced",
-    "apkmirrorAppName": "youtube-vanced",
-    "developerName": "team-vanced",
-    "versions": [],
-    "includedPatches": [
-      "Hide ads"
-    ]
-  },
-  {
-    "pkgName": "ginlemon.iconpackstudio",
-    "appName": "Icon-Pack-Studio",
-    "apkmirrorAppName": "icon-pack-studio",
-    "developerName": "smart-launcher-team",
-    "versions": [],
-    "includedPatches": [
-      "Unlock pro"
-    ]
-  },
-  {
-    "pkgName": "com.ithebk.expensemanager",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Unlock pro"
-    ]
-  },
-  {
-    "pkgName": "com.facebook.orca",
-    "appName": "Facebook-Messenger",
-    "apkmirrorAppName": "messenger",
-    "developerName": "facebook-2",
-    "versions": [],
-    "includedPatches": [
-      "Disable typing indicator",
-      "Disable switching emoji to sticker",
-      "Hide inbox ads"
-    ]
-  },
-  {
-    "pkgName": "it.ipzs.cieid",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Bypass root checks"
-    ]
-  },
-  {
-    "pkgName": "pl.solidexplorer2",
-    "appName": "Solid-Explorer-File-Manager",
-    "apkmirrorAppName": "solid-explorer-beta",
-    "developerName": "neatbytes",
-    "versions": [],
-    "includedPatches": [
-      "Remove file size limit"
-    ]
-  },
-  {
-    "pkgName": "com.ticktick.task",
-    "appName": "TickTickTo-Do-List-Calendar",
-    "apkmirrorAppName": "ticktick-to-do-list-with-reminder-day-planner",
-    "developerName": "appest-inc",
-    "versions": [],
-    "includedPatches": [
-      "Unlock themes"
-    ]
-  },
-  {
-    "pkgName": "com.spotify.music",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Hide premium navbar",
-      "Custom theme"
-    ]
-  },
-  {
-    "pkgName": "com.spotify.lite",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Enable on demand"
-    ]
-  },
-  {
-    "pkgName": "io.yuka.android",
-    "appName": "Yuka-food-cosmetic-scan",
-    "apkmirrorAppName": "yuka-food-cosmetic-scan",
-    "developerName": "yuka-apps",
-    "versions": [],
-    "includedPatches": [
-      "Unlock premium"
-    ]
-  },
-  {
-    "pkgName": "com.candylink.openvpn",
-    "appName": "CandyLink-VPN",
-    "apkmirrorAppName": "candylink-vpn",
-    "developerName": "liondev-io",
-    "versions": [],
-    "includedPatches": [
-      "Unlock pro"
+      "Announcements",
+      "Bypass URL redirects",
+      "Open links externally",
+      "Client spoof",
+      "Disable zoom haptics",
+      "Spoof device dimensions",
+      "Always autorepeat",
+      "Minimized playback",
+      "Remember video quality",
+      "Old video quality menu",
+      "HDR auto brightness",
+      "Playback speed",
+      "Video ads",
+      "Hide ads",
+      "Copy video url",
+      "Swipe controls",
+      "Disable fine scrubbing gesture",
+      "Seekbar tapping",
+      "External downloads",
+      "Enable tablet layout",
+      "Hide crowdfunding box",
+      "Hide info cards",
+      "Hide breaking news shelf",
+      "Hide timestamp",
+      "Comments",
+      "Hide seekbar",
+      "Hide Shorts components",
+      "Hide layout components",
+      "Player flyout menu",
+      "Hide 'Load more' button",
+      "Hide floating microphone button",
+      "Hide endscreen cards",
+      "Hide album cards",
+      "Hide filter bar",
+      "Hide email address",
+      "Wide searchbar",
+      "Alternative thumbnails",
+      "Tablet mini player",
+      "Spoof app version",
+      "Disable auto captions",
+      "Disable Shorts on startup",
+      "SponsorBlock",
+      "Custom player overlay opacity",
+      "Remove player controls background",
+      "Theme",
+      "Hide cast button",
+      "Navigation buttons",
+      "Hide player buttons",
+      "Hide captions button",
+      "Hide video action buttons",
+      "Hide autoplay button",
+      "Disable player popup panels",
+      "Return YouTube Dislike"
     ]
   },
   {
@@ -128,529 +82,24 @@
     "appName": "YouTube-Music",
     "apkmirrorAppName": "youtube-music",
     "developerName": "google-inc",
-    "versions": [],
+    "versions": [
+      "6.15.52",
+      "6.20.51",
+      "6.23.55",
+      "6.25.53"
+    ],
     "includedPatches": [
+      "Bypass certificate checks",
+      "Background play",
+      "Music video ads",
       "Exclusive audio playback",
       "Codecs unlock",
       "Permanent repeat",
       "Permanent shuffle",
-      "Music video ads",
-      "Background play",
-      "Bypass certificate checks",
       "Hide get premium",
       "Minimized playback music",
       "Compact header",
       "Remove upgrade button"
-    ]
-  },
-  {
-    "pkgName": "at.gv.bmf.bmf2go",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Remove root detection",
-      "Remove bootloader detection"
-    ]
-  },
-  {
-    "pkgName": "com.backdrops.wallpapers",
-    "appName": "Backdrops-Wallpapers",
-    "apkmirrorAppName": "backdrops-wallpapers",
-    "developerName": "backdrops",
-    "versions": [
-      "4.52"
-    ],
-    "includedPatches": [
-      "Pro unlock"
-    ]
-  },
-  {
-    "pkgName": "com.microblink.photomath",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Spoof device ID",
-      "Unlock plus"
-    ]
-  },
-  {
-    "pkgName": "com.myprog.hexedit",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Disable ads"
-    ]
-  },
-  {
-    "pkgName": "tv.twitch.android.app",
-    "appName": "Twitch-Live-Game-Streaming",
-    "apkmirrorAppName": "twitch",
-    "developerName": "twitch-interactive-inc",
-    "versions": [
-      "15.4.1",
-      "16.1.0"
-    ],
-    "includedPatches": [
-      "Auto claim channel points",
-      "Show deleted messages",
-      "Block audio ads",
-      "Block video ads",
-      "Block embedded ads",
-      "Settings"
-    ]
-  },
-  {
-    "pkgName": "de.dwd.warnapp",
-    "appName": "WarnWetter",
-    "apkmirrorAppName": "warnwetter",
-    "developerName": "deutscher-wetterdienst",
-    "versions": [],
-    "includedPatches": [
-      "Promo code unlock"
-    ]
-  },
-  {
-    "pkgName": "com.ss.android.ugc.trill",
-    "appName": "TikTok",
-    "apkmirrorAppName": "tik-tok",
-    "developerName": "tiktok-pte-ltd",
-    "versions": [
-      "30.8.4"
-    ],
-    "includedPatches": [
-      "Feed filter",
-      "Downloads",
-      "Playback speed",
-      "Show seekbar",
-      "Hide ads",
-      "Disable login requirement",
-      "Fix Google login",
-      "Settings"
-    ]
-  },
-  {
-    "pkgName": "com.zhiliaoapp.musically",
-    "appName": "TikTok",
-    "apkmirrorAppName": "tik-tok-including-musical-ly",
-    "developerName": "tiktok-pte-ltd",
-    "versions": [
-      "30.8.4"
-    ],
-    "includedPatches": [
-      "Feed filter",
-      "Downloads",
-      "Playback speed",
-      "Show seekbar",
-      "Hide ads",
-      "Disable login requirement",
-      "Fix Google login",
-      "Settings"
-    ]
-  },
-  {
-    "pkgName": "com.dci.dev.androidtwelvewidgets",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Unlock paid widgets"
-    ]
-  },
-  {
-    "pkgName": "com.strava",
-    "appName": "Strava-Run-Bike-Hike",
-    "apkmirrorAppName": "strava-running-and-cycling-gps",
-    "developerName": "strava-inc",
-    "versions": [
-      "320.12"
-    ],
-    "includedPatches": [
-      "Disable subscription suggestions",
-      "Unlock subscription features"
-    ]
-  },
-  {
-    "pkgName": "com.tumblr",
-    "appName": "Tumblr—Fandom-Art-Chaos",
-    "apkmirrorAppName": "tumblr",
-    "developerName": "tumblr-inc",
-    "versions": [],
-    "includedPatches": [
-      "Disable dashboard ads",
-      "Disable gift message popup",
-      "Disable in-app update",
-      "Disable blog notification reminder",
-      "Disable Tumblr Live"
-    ]
-  },
-  {
-    "pkgName": "at.gv.bka.serviceportal",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Remove root detection"
-    ]
-  },
-  {
-    "pkgName": "com.sony.songpal.mdr",
-    "appName": "Sony-Headphones-Connect",
-    "apkmirrorAppName": "sony-headphones-connect",
-    "developerName": "sony-corporation",
-    "versions": [],
-    "includedPatches": [
-      "Remove badge tab",
-      "Remove notification badge"
-    ]
-  },
-  {
-    "pkgName": "com.google.android.apps.recorder",
-    "appName": "Google-Recorder",
-    "apkmirrorAppName": "google-recorder",
-    "developerName": "google-inc",
-    "versions": [],
-    "includedPatches": [
-      "Remove device restrictions"
-    ]
-  },
-  {
-    "pkgName": "com.awedea.nyx",
-    "appName": "Nyx-Music-Player",
-    "apkmirrorAppName": "nyx-music-player",
-    "developerName": "awedea",
-    "versions": [],
-    "includedPatches": [
-      "Unlock pro"
-    ]
-  },
-  {
-    "pkgName": "com.vsco.cam",
-    "appName": "VSCO-Photo-Video-Editor",
-    "apkmirrorAppName": "vsco-cam",
-    "developerName": "vsco",
-    "versions": [],
-    "includedPatches": [
-      "Unlock pro"
-    ]
-  },
-  {
-    "pkgName": "at.gv.oe.app",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Spoof signature",
-      "Remove root detection"
-    ]
-  },
-  {
-    "pkgName": "org.totschnig.myexpenses",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [
-      "3.4.9"
-    ],
-    "includedPatches": [
-      "Unlock pro"
-    ]
-  },
-  {
-    "pkgName": "co.windyapp.android",
-    "appName": "Windy.app-wind-weather-live",
-    "apkmirrorAppName": "windy-wind-weather-forecast",
-    "developerName": "windy-weather-world-inc",
-    "versions": [],
-    "includedPatches": [
-      "Unlock pro"
-    ]
-  },
-  {
-    "pkgName": "com.zombodroid.MemeGenerator",
-    "appName": "Meme-Generator",
-    "apkmirrorAppName": "meme-generator-free",
-    "developerName": "zombodroid",
-    "versions": [
-      "4.6364",
-      "4.6370",
-      "4.6375",
-      "4.6377"
-    ],
-    "includedPatches": [
-      "Unlock pro"
-    ]
-  },
-  {
-    "pkgName": "jp.pxv.android",
-    "appName": "pixiv",
-    "apkmirrorAppName": "pixiv",
-    "developerName": "pixiv-inc",
-    "versions": [],
-    "includedPatches": [
-      "Hide ads"
-    ]
-  },
-  {
-    "pkgName": "de.tudortmund.app",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Show on lockscreen"
-    ]
-  },
-  {
-    "pkgName": "com.scb.phone",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": []
-  },
-  {
-    "pkgName": "com.google.android.youtube",
-    "appName": "YouTube",
-    "apkmirrorAppName": "youtube",
-    "developerName": "google-inc",
-    "versions": [
-      "18.16.37",
-      "18.19.35",
-      "18.20.39",
-      "18.23.35",
-      "18.29.38",
-      "18.32.39",
-      "18.37.36",
-      "18.38.44"
-    ],
-    "includedPatches": [
-      "External downloads",
-      "Copy video url",
-      "Disable fine scrubbing gesture",
-      "Seekbar tapping",
-      "Swipe controls",
-      "Hide ads",
-      "Video ads",
-      "Old video quality menu",
-      "Playback speed",
-      "HDR auto brightness",
-      "Remember video quality",
-      "Always autorepeat",
-      "Minimized playback",
-      "Disable zoom haptics",
-      "Bypass URL redirects",
-      "Open links externally",
-      "Client spoof",
-      "Hide filter bar",
-      "Hide timestamp",
-      "Hide 'Load more' button",
-      "Hide layout components",
-      "Hide breaking news shelf",
-      "Hide endscreen cards",
-      "Hide floating microphone button",
-      "Hide watermark",
-      "Comments",
-      "Hide album cards",
-      "Hide email address",
-      "Hide seekbar",
-      "Hide Shorts components",
-      "Hide crowdfunding box",
-      "Hide info cards",
-      "Player flyout menu",
-      "Hide captions button",
-      "Hide autoplay button",
-      "Navigation buttons",
-      "Hide video action buttons",
-      "Hide cast button",
-      "Hide player buttons",
-      "Disable auto captions",
-      "Wide searchbar",
-      "Enable tablet layout",
-      "Disable Shorts on startup",
-      "Theme",
-      "Disable player popup panels",
-      "SponsorBlock",
-      "Return YouTube Dislike",
-      "Tablet mini player",
-      "Spoof app version",
-      "Alternative thumbnails",
-      "Custom player overlay opacity",
-      "Remove player controls background"
-    ]
-  },
-  {
-    "pkgName": "com.laurencedawson.reddit_sync",
-    "appName": "Sync-for-reddit",
-    "apkmirrorAppName": "sync-for-reddit",
-    "developerName": "red-apps-ltd",
-    "versions": [
-      "v23.06.30-13:39"
-    ],
-    "includedPatches": [
-      "Disable ads",
-      "Disable Sync for Lemmy bottom sheet",
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "com.laurencedawson.reddit_sync.pro",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Disable Sync for Lemmy bottom sheet",
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "com.laurencedawson.reddit_sync.dev",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Disable Sync for Lemmy bottom sheet",
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "com.rubenmayayo.reddit",
-    "appName": "Boost-for-reddit",
-    "apkmirrorAppName": "boost-for-reddit",
-    "developerName": "ruben-mayayo",
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "ml.docilealligator.infinityforreddit",
-    "appName": "Infinity-for-Reddit",
-    "apkmirrorAppName": "infinity-for-reddit",
-    "developerName": "docile-alligator",
-    "versions": [
-      "5.4.0",
-      "5.4.1",
-      "5.4.2",
-      "6.0.1",
-      "6.0.2",
-      "6.0.4",
-      "6.0.6",
-      "6.1.1"
-    ],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "com.onelouder.baconreader",
-    "appName": "BaconReader-for-Reddit",
-    "apkmirrorAppName": "baconreader-for-reddit",
-    "developerName": "onelouder-apps",
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "com.onelouder.baconreader.premium",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "me.ccrama.redditslide",
-    "appName": "Slide-for-Reddit",
-    "apkmirrorAppName": "slide-for-reddit",
-    "developerName": "haptic-apps",
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "o.o.joey",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Disable ads",
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "o.o.joey.pro",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "o.o.joey.dev",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "free.reddit.news",
-    "appName": "Relay-for-reddit",
-    "apkmirrorAppName": "relay-for-reddit-2",
-    "developerName": "dbrady",
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "reddit.news",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "com.andrewshu.android.reddit",
-    "appName": "rif-is-fun-for-Reddit",
-    "apkmirrorAppName": "reddit-is-fun",
-    "developerName": "talklittle",
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
-    ]
-  },
-  {
-    "pkgName": "com.andrewshu.android.redditdonation",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Spoof client"
     ]
   },
   {
@@ -660,84 +109,15 @@
     "developerName": "redditinc",
     "versions": [],
     "includedPatches": [
-      "Hide ads",
-      "Sanitize sharing links",
       "Disable screenshot popup",
-      "Unlock premium Reddit icons"
-    ]
-  },
-  {
-    "pkgName": "com.twitter.android",
-    "appName": "X-previously-Twitter",
-    "apkmirrorAppName": "twitter",
-    "developerName": "x-corp",
-    "versions": [],
-    "includedPatches": [
       "Hide ads",
-      "Hide recommended users",
-      "Dynamic color"
-    ]
-  },
-  {
-    "pkgName": "eu.faircode.netguard",
-    "appName": "NetGuard-no-root-firewall",
-    "apkmirrorAppName": "netguard-no-root-firewall",
-    "developerName": "marcel-bokhorst",
-    "versions": [],
-    "includedPatches": []
-  },
-  {
-    "pkgName": "tv.trakt.trakt",
-    "appName": "Trakt",
-    "apkmirrorAppName": "trakt",
-    "developerName": "trakt",
-    "versions": [
-      "1.1.1"
-    ],
-    "includedPatches": [
-      "Unlock pro"
-    ]
-  },
-  {
-    "pkgName": "net.binarymode.android.irplus",
-    "appName": "irplus-Infrared-Remote",
-    "apkmirrorAppName": "irplus-infrared-remote",
-    "developerName": "binarymode",
-    "versions": [],
-    "includedPatches": [
-      "Remove ads"
-    ]
-  },
-  {
-    "pkgName": "com.instagram.android",
-    "appName": "Instagram",
-    "apkmirrorAppName": "instagram-instagram",
-    "developerName": "instagram",
-    "versions": [
-      "275.0.0.27.98"
-    ],
-    "includedPatches": [
-      "Hide timeline ads"
-    ]
-  },
-  {
-    "pkgName": "com.nis.app",
-    "appName": "Inshorts-News-in-60-words",
-    "apkmirrorAppName": "inshorts-news-in-60-words-2",
-    "developerName": "inshorts-formerly-news-in-shorts",
-    "versions": [],
-    "includedPatches": [
-      "Hide ads"
-    ]
-  },
-  {
-    "pkgName": "com.wakdev.apps.nfctools.se",
-    "appName": null,
-    "apkmirrorAppName": null,
-    "developerName": null,
-    "versions": [],
-    "includedPatches": [
-      "Unlock pro"
+      "Hide navigation buttons",
+      "Hide place button",
+      "Open links directly",
+      "Open links externally",
+      "Premium icon",
+      "Reddit settings",
+      "Sanitize sharing links"
     ]
   }
 ]
