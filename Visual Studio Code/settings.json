@@ -2,7 +2,7 @@
     "workbench.colorTheme": "Material Theme Darker High Contrast",
     "workbench.iconTheme": "eq-material-theme-icons-darker",
     "workbench.productIconTheme": "fluent-icons",
-    "editor.fontFamily": "'Hack', 'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Fantasque Sans Mono', 'Cascadia Code', Consolas, 'Courier New', monospace",
     "html.autoClosingTags": true,
     "javascript.autoClosingTags": true,
     "typescript.autoClosingTags": true,
