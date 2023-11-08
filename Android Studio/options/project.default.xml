@@ -1,0 +1,20 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="184" y="0" key="SettingsEditor" timestamp="1699450927933">
+          <screen x="0" y="0" width="1366" height="720" />
+        </state>
+        <state x="184" y="0" key="SettingsEditor/0.0.1366.720" timestamp="1699450927933" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
