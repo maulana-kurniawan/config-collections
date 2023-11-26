@@ -112,6 +112,7 @@
     <string name="ses_120fps_id_key_4"></string>
     <string name="ses_120fps_id_key_3"></string>
     <string name="ses_120fps_id_key_0"></string>
+    <int name="tooltip_impression_trigger_count_for_long_exposure_smarts_chip" value="2" />
     <string name="009D16D8_f_3ca3_d70a_pthcr_key_3">0.02</string>
     <string name="009D16D8_f_3ca3_d70a_pthcr_key_2">0.02</string>
     <string name="009D16D8_f_3ca3_d70a_pthcr_key_4">0.02</string>
@@ -346,6 +347,7 @@
     <string name="024A48C4E_a_3ff0_000000000000_pthcr_key_4">1.0</string>
     <string name="pref_shutter_command_string">66</string>
     <string name="024A48C4E_a_3ff0_000000000000_pthcr_key_0">1.0</string>
+    <string name="pref_has_checked_gouda_mode">1</string>
     <string name="009D1628_f_3fe6_6666_pthcr_key_1">1.8</string>
     <string name="009D1628_f_3fe6_6666_pthcr_key_0">1.8</string>
     <string name="gawb_user_bg_g_key_0">0.556984</string>
@@ -387,6 +389,7 @@
     <string name="010A1F38_d_3fe3_7def8487b99d_pthcr_key_3">0.609123</string>
     <string name="010A1F38_d_3fe3_7def8487b99d_pthcr_key_2">0.609123</string>
     <string name="009D53FC_f_3da3_d70a_pthcr_key_4">0.08</string>
+    <string name="pref_camera_video_back_flashmode_thermally_disabled_key">0</string>
     <string name="009D54BF_f_3dcc_cccd_pthcr_key_2">0.1</string>
     <string name="009D53FC_f_3da3_d70a_pthcr_key_1">0.08</string>
     <string name="010A1F38_d_3fe3_7def8487b99d_pthcr_key_1">0.609123</string>
@@ -408,7 +411,7 @@
     <string name="gawb_user_rg_o_key_2"></string>
     <string name="009D1634_f_3f99_999a_pthcr_key_0">1.2</string>
     <string name="009D1634_f_3f99_999a_pthcr_key_3">1.2</string>
-    <string name="pref_double_tap_launch_edu_count">1</string>
+    <string name="pref_double_tap_launch_edu_count">2</string>
     <string name="gawb_user_rg_o_key_4"></string>
     <string name="009D1634_f_3f99_999a_pthcr_key_2">1.2</string>
     <string name="009D1634_f_3f99_999a_pthcr_key_4">1.2</string>
@@ -444,6 +447,7 @@
     <string name="024A4288A_a_3F4C_CCCD_pthcr_key_3">0.8</string>
     <string name="024A4288A_a_3F4C_CCCD_pthcr_key_4">0.8</string>
     <string name="009D169C_f_3ca3_d70a_pthcr_key_4">0.02</string>
+    <string name="pref_has_set_social_share_apps">1</string>
     <string name="009D1620_f_3bc4_9ba6_pthcr_key_3">0.006</string>
     <string name="009D1620_f_3bc4_9ba6_pthcr_key_2">0.006</string>
     <string name="009D1620_f_3bc4_9ba6_pthcr_key_1">0.006</string>
@@ -463,6 +467,7 @@
     <string name="pref_video_fps_4k_key">FPS_30</string>
     <string name="hwlevel_key">0</string>
     <string name="pref_camera_recordlocation_key">0</string>
+    <boolean name="finish_video_capture" value="true" />
     <string name="009D161C_f_4020_0000_pthcr_key_4">2.5</string>
     <string name="pref_camera_single_shot_sound_key">0</string>
     <string name="02B2FC80_fmov_3f80_0000_pthcr_key_0">1.0</string>
@@ -484,10 +489,12 @@
     <string name="pref_G_hue_1">0.0</string>
     <string name="pref_G_hue_2">0.0</string>
     <string name="gawb_user_bg_i_key_4"></string>
+    <string name="pref_hdr_tooltip_countdown">1</string>
     <string name="gawb_user_bg_i_key_1">0.59211</string>
     <string name="gawb_user_bg_i_key_0">0.59211</string>
     <string name="pref_G_hue_3">0.0</string>
     <string name="pref_G_hue_4">0.0</string>
+    <string name="pref_camera_astro">0</string>
     <string name="gawb_user_bg_j_key_0">0.686416</string>
     <string name="gawb_user_bg_j_key_4"></string>
     <string name="009D16E4_f_3ca3_d70a_pthcr_key_4">0.02</string>
@@ -499,7 +506,7 @@
     <string name="009D16E4_f_3ca3_d70a_pthcr_key_2">0.02</string>
     <string name="009D16E4_f_3ca3_d70a_pthcr_key_1">0.02</string>
     <string name="03431DAC_fmov_bf80_0000_pthcr_key_0">-1.0</string>
-    <string name="pref_af_mode_back">0</string>
+    <string name="pref_af_mode_back">1</string>
     <string name="009D1678_f_3ca3_d70a_pthcr_key_0">0.02</string>
     <string name="009D1684_f_3ca3_d70a_pthcr_key_2">0.02</string>
     <string name="009D1684_f_3ca3_d70a_pthcr_key_3">0.02</string>
@@ -619,6 +626,7 @@
     <string name="gawb_user_bg_n_key_2"></string>
     <string name="gawb_user_bg_n_key_3"></string>
     <string name="gawb_user_bg_n_key_4"></string>
+    <int name="tooltip_impression_count_for_lasagna_edu_landscape" value="1" />
     <string name="009D5491_f_3f24_9310_pthcr_key_1">0.642869</string>
     <string name="009D5491_f_3f24_9310_pthcr_key_0">0.642869</string>
     <string name="009D5491_f_3f24_9310_pthcr_key_3">0.642869</string>
@@ -632,7 +640,7 @@
     <string name="d_c_m_quality_key_2">0</string>
     <string name="pref_long_press_galery_key">1</string>
     <string name="d_c_m_quality_key_1">0</string>
-    <string name="perf_has_run_second_education">0</string>
+    <string name="perf_has_run_second_education">1</string>
     <string name="024A402CA_a_3f80_0000_pthcr_key_0">1.0</string>
     <string name="024A402CA_a_3f80_0000_pthcr_key_1">1.0</string>
     <string name="024A402CA_a_3f80_0000_pthcr_key_2">1.0</string>
@@ -652,6 +660,7 @@
     <string name="pref_camera_dirty_lens_history_key0"></string>
     <string name="009D5412_f_3e74_060e_pthcr_key_4">0.238304</string>
     <string name="009D5412_f_3e74_060e_pthcr_key_3">0.238304</string>
+    <string name="pref_camera_dirty_lens_history_key1"></string>
     <string name="009D5412_f_3e74_060e_pthcr_key_0">0.238304</string>
     <string name="gawb_user_bg_p_key_0">0.446765</string>
     <string name="gawb_user_bg_p_key_1">0.446765</string>
@@ -761,6 +770,7 @@
     <string name="gawb_user_bg_m_key_1">0.686416</string>
     <string name="009D167C_f_3fb3_3333_pthcr_key_4">1.4</string>
     <string name="024A4830E_a_3ff0_000000000000_pthcr_key_0">1.0</string>
+    <boolean name="autotimer_tutorial_shown" value="true" />
     <string name="009D53DF_f_3f22_50ae_pthcr_key_3">0.634044</string>
     <string name="009D53DF_f_3f22_50ae_pthcr_key_4">0.634044</string>
     <string name="009D53DF_f_3f22_50ae_pthcr_key_1">0.634044</string>
@@ -972,7 +982,7 @@
     <string name="009D5487_f_3f99_999a_pthcr_key_2">1.2</string>
     <string name="pref_storage_saver_auto_disable">0</string>
     <string name="pref_video_fps_p2018_key">FPS_AUTO</string>
-    <string name="pref_camera_raw_output_key">1</string>
+    <string name="pref_camera_raw_output_key">0</string>
     <string name="024A4608A_a_3f80_0000_pthcr_key_4">1.0</string>
     <string name="024A4608A_a_3f80_0000_pthcr_key_1">1.0</string>
     <string name="024A4608A_a_3f80_0000_pthcr_key_0">1.0</string>
@@ -1011,7 +1021,7 @@
     <string name="00439D74_f_3f80_0000_pthcr_key_2">1.0</string>
     <string name="024A456CE_a_3f80_0000_pthcr_key_1">1.0</string>
     <string name="009D168C_f_3bc4_9ba6_pthcr_key_1">0.006</string>
-    <string name="perf_has_run_education">1698643118903</string>
+    <string name="perf_has_run_education">1700869226310</string>
     <string name="009D543F_f_3f80_0000_pthcr_key_3">1.0</string>
     <string name="009D543F_f_3f80_0000_pthcr_key_2">1.0</string>
     <string name="pref_satCCT_B_0">1.0</string>
@@ -1060,6 +1070,7 @@
     <string name="010A1F18_d_3fd0_05c4651f3e8a_pthcr_key_3">0.250352</string>
     <string name="010A1F18_d_3fd0_05c4651f3e8a_pthcr_key_0">0.250352</string>
     <string name="010A1F18_d_3fd0_05c4651f3e8a_pthcr_key_1">0.250352</string>
+    <int name="tooltip_impression_count_for_long_press" value="1" />
     <string name="pref_camera_picturesize_back_key"></string>
     <string name="gawb_user_rg_h_key_3"></string>
     <string name="gawb_user_rg_h_key_4"></string>
@@ -1087,7 +1098,7 @@
     <string name="device_key">needlefish</string>
     <string name="quality_enh_corrector_key_0">0</string>
     <string name="quality_enh_corrector_key_1">0</string>
-    <string name="galley_key">com.miui.gallery</string>
+    <string name="galley_key">com.google.android.apps.photos</string>
     <string name="024A5D88E_null_pthcr_key_2"></string>
     <string name="024A5D88E_null_pthcr_key_3"></string>
     <string name="024A5D88E_null_pthcr_key_0"></string>
@@ -1202,7 +1213,7 @@
     <string name="delay_focus_key_4">6</string>
     <string name="010A1F20_d_3fd5_95e9e1b089a0_pthcr_key_4">0.337275</string>
     <string name="010A1F20_d_3fd5_95e9e1b089a0_pthcr_key_3">0.337275</string>
-    <string name="pref_camera_gawb_b_photo">1</string>
+    <string name="pref_camera_gawb_b_photo">0</string>
     <string name="010A1F20_d_3fd5_95e9e1b089a0_pthcr_key_0">0.337275</string>
     <string name="010A1F20_d_3fd5_95e9e1b089a0_pthcr_key_2">0.337275</string>
     <string name="010A1F20_d_3fd5_95e9e1b089a0_pthcr_key_1">0.337275</string>
@@ -1256,6 +1267,7 @@
     <string name="ses_hdr10_id_key_1"></string>
     <string name="pref_exposure_control_key">1</string>
     <string name="ses_hdr10_id_key_0"></string>
+    <boolean name="pref_key_reboot_completed" value="true" />
     <string name="010A1EC8_d_3fd5_b573eab367a1_pthcr_key_1">0.3392</string>
     <string name="010A1EC8_d_3fd5_b573eab367a1_pthcr_key_0">0.3392</string>
     <string name="pref_has_checked_tiara_mode">0</string>
@@ -1268,6 +1280,7 @@
     <string name="010A1EC8_d_3fd5_b573eab367a1_pthcr_key_3">0.3392</string>
     <string name="010A1EC8_d_3fd5_b573eab367a1_pthcr_key_2">0.3392</string>
     <string name="010A1EC8_d_3fd5_b573eab367a1_pthcr_key_4">0.3392</string>
+    <string name="pref_social_app_com_facebook_katana">0</string>
     <string name="009D1674_f_38d1_b717_pthcr_key_0">0.0001</string>
     <string name="009D5455_f_3dcc_cccd_pthcr_key_2">0.1</string>
     <string name="009D5455_f_3dcc_cccd_pthcr_key_3">0.1</string>
@@ -1311,5 +1324,6 @@
     <string name="020C7004_fmov_3e80_0000_pthcr_key_2">0.25</string>
     <string name="020C7004_fmov_3e80_0000_pthcr_key_3">0.25</string>
     <string name="020C7004_fmov_3e80_0000_pthcr_key_4">0.25</string>
+    <long name="tooltip_latest_impression_timestamp_for_lasagna_edu_landscape" value="1698614759363" />
     <string name="pref_camera_advice_settings">1</string>
 </map>
