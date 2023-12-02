@@ -115,5 +115,6 @@
         "editor.suggestSelection": "first",
         "editor.tabCompletion": "onlySnippets",
         "editor.wordBasedSuggestions": false
-    }
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
 }
