@@ -1,10 +1,9 @@
 {
-  "timeStamp": 1701728224442,
+  "timeStamp": 1701895860275,
   "version": "1.53.0",
   "userSettings": {
-    "cloudStorageEnabled": true,
     "uiAccentCustom": true,
-    "uiAccentCustom0": "#56a22b",
+    "uiAccentCustom0": "#2ea283",
     "importedLists": [],
     "suspendUntilListsAreLoaded": true
   },
