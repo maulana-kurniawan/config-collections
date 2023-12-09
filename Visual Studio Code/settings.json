@@ -2,7 +2,7 @@
     "workbench.colorTheme": "Material Theme Darker High Contrast",
     "workbench.iconTheme": "eq-material-theme-icons-darker",
     "workbench.productIconTheme": "fluent-icons",
-    "editor.fontFamily": "'VictorMono Nerd Font Mono', 'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace",
     "html.autoClosingTags": true,
     "javascript.autoClosingTags": true,
     "typescript.autoClosingTags": true,
@@ -11,8 +11,8 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "editor.codeActionsOnSave": {
-        "source.organizeImports": true,
-        "source.fixAll.markdownlint": true
+        "source.organizeImports": "explicit",
+        "source.fixAll.markdownlint": "explicit"
     },
     "emmet.excludeLanguages": [],
     "emmet.includeLanguages": {
@@ -114,7 +114,7 @@
         "editor.selectionHighlight": false,
         "editor.suggestSelection": "first",
         "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
+        "editor.wordBasedSuggestions": "off"
     },
     "terminal.integrated.defaultProfile.windows": "Command Prompt"
 }
